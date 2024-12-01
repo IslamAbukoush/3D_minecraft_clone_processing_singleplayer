@@ -9,7 +9,7 @@ class Player {
   float sprint = 10;
   float speed = walk;
   
-  boolean flying = false;
+  boolean flying = true;
   float verticalVelocity = 0;
   float gravity = 1;
   float jumpPower = 12;
