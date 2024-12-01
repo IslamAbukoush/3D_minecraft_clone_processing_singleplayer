@@ -13,7 +13,7 @@ A lightweight 3D Minecraft-inspired game built using Processing. This project sh
    ```
 
 2. **Open in Processing**
-   - Open the `.pde` file using the [Processing IDE](https://processing.org/download/).
+   - Open any `.pde` file using the [Processing IDE](https://processing.org/download/).
 
 3. **Run the Sketch**
    - Click the **Run** button in Processing to launch the game.
