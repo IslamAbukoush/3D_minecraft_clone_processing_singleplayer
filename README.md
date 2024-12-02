@@ -29,6 +29,6 @@ A lightweight 3D Minecraft-inspired game built using Processing. This project sh
    - **Space**: Jump/fly upwards.
    - **Double Jump**: Toggle fly.
    - **Shift**: sprint/fly downwards.
-   - **Ctrl**: sprint (not recommended because going forward with "W" and pressing "Ctrl" will close the sketch.
+   - **Ctrl**: sprint (not recommended because going forward with "W" and pressing "Ctrl" will close the sketch).
    - **Mouse Wheel/Numbers 1-9**: Change blocks in item bar.
    - **Middle Click**: Equip the block the player's currently looking at.
